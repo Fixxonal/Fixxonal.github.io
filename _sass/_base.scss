@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
+    background-image: url("https://github.com/Fixxonal/Fixxonal.github.io/blob/master/DSC_0814.JPG?raw=true");
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -27,8 +27,6 @@ body {
 
 h1 {
     text-align: center;
-    background-image: url("https://github.com/Fixxonal/Fixxonal.github.io/blob/master/DSC_0814.JPG?raw=true");
-    background-size: 100px;
     color: white;
 }
 
